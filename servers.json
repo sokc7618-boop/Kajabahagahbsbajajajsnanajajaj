@@ -178,19 +178,9 @@
         ]
     },
     "manager-page-3": {
-        "buttonTitle": "Server Pack 3",
         "title": "VLESS Manager - Pack 3",
-        "categories": [
-            {
-                "title": "Smart - Pack 3",
-                "configs": [
-                    {
-                        "name": "1. Smart UK",
-                        "link": "vless://placeholder-for-pack3"
-                    }
-                ]
-            }
-        ]
+        "buttonTitle": "កូដ VLESS - សម្រាប់ Smart ",
+        "categories": []
     },
     "manager-page-1759746949124": {
         "title": "New Pack Title",
