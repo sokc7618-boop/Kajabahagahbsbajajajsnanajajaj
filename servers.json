@@ -1,7 +1,7 @@
 {
     "manager-page-1": {
-        "buttonTitle": "Server Pack 1",
         "title": "VLESS - សម្រាប់ Metfone អត់ប្រើសេវាកម្ម",
+        "buttonTitle": "VLESS - សម្រាប់ Metfone",
         "categories": [
             {
                 "title": "Metfone - សម្រាប់ការលេងហ្គេម",
@@ -185,4 +185,3 @@
         ]
     }
 }
-
