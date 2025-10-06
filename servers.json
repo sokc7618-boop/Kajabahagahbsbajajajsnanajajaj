@@ -1,1 +1,100 @@
+{
+    "manager-page-1": {
+        "buttonTitle": "Server Pack 1",
+        "title": "VLESS - សម្រាប់ Metfone អត់ប្រើសេវាកម្ម",
+        "categories": [
+            {
+                "title": "Metfone - សម្រាប់ការលេងហ្គេម",
+                "configs": [
+                    {
+                        "name": "1. Metfone - SERVER KH 🇰🇭 ",
+                        "link": "vless://1745e087-3edb-43e9-8c05-1ab0ac91a7e4@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Metfone%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "2. Metfone - SERVER KH 🇰🇭 ",
+                        "link": "vless://3745e087-3edb-43e9-8c05-1ab0ac91a7e4@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                    }
+                ]
+            },
+            {
+                "title": "Metfone - សម្រាប់ការលេងធម្មតា ល្បឿនលឿន",
+                "configs": [
+                    {
+                        "name": "1. Metfone - SERVER KH FAST 🇰🇭",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#1.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "2. Metfone - SERVER KH FAST 🇰🇭",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#2.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "3. Metfone - SERVER KH FAST 🇰🇭",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                    }
+                ]
+            },
+            {
+                "title": "Metfone - សម្រាប់ការលេងច្រើន Download Files...",
+                "configs": [
+                    {
+                        "name": "1. Metfone - SERVER SG 🇸🇬",
+                        "link": "vless://9c490c02-7f92-4543-a7ce-95d217062886@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fsgvvip&security=none&encryption=none&host=sgg.angkorssh.ggff.net&type=ws#01.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                    },
+                    {
+                        "name": "2. Metfone - SERVER TH 🇹🇭",
+                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.true-8.misternut.uk&type=ws#02.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "3. Metfone - SERVER TH 🇹🇭",
+                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.true-16.misternut.uk&type=ws#03.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                    }
+                ]
+            }
+        ]
+    },
+    "manager-page-2": {
+        "buttonTitle": "Server Pack 2",
+        "title": "VLESS - Cellcard Tele   សុពលភាពស៊ីម",
+        "categories": [
+            {
+                "title": "Cellcard - សម្រាប់ការលេងហ្គេម",
+                "configs": [
+                    {
+                        "name": "1. Cellcard - SERVER KH 🇰🇭 ",
+                        "link": "vless://1745e087-3edb-43e9-8c05-1ab0ac91a7e4@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Cellcard%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "2. Cellcard - SERVER KH 🇰🇭 ",
+                        "link": "vless://3745e087-3edb-43e9-8c05-1ab0ac91a7e4@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Cellcard%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                    }
+                ]
+            },
+            {
+                "title": "Cellcard - សម្រាប់ការលេងធម្មតា ល្បឿនលឿន",
+                "configs": [
+                    {
+                        "name": "1. Cellcard - SERVER KH FAST 🇰🇭",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdn.yellowmessenger.com:80?path=%2Fpyip%3D&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#1.%20Cellcard%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                    }
+                ]
+            }
+        ]
+    },
+    "manager-page-3": {
+        "buttonTitle": "Server Pack 3",
+        "title": "VLESS Manager - Pack 3",
+        "categories": [
+            {
+                "title": "Smart - Pack 3",
+                "configs": [
+                    {
+                        "name": "1. Smart UK",
+                        "link": "vless://placeholder-for-pack3"
+                    }
+                ]
+            }
+        ]
+    }
+}
 
+                  
