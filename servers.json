@@ -1,5 +1,6 @@
 {
     "manager-page-1": {
+        "buttonTitle": "Server Pack 1",
         "title": "VLESS Manager - Pack 1",
         "categories": [
             {
@@ -7,11 +8,11 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER KH 🇰🇭 ",
-                        "link": "vless://1745e087-3edb-43e9-8c05-1ab0ac91a7e4@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Metfone%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "dmxlc3M6Ly8xNzQ1ZTA4Ny0zZWRiLTQzZTktOGMwNS0xYWIwYWM5MWE3ZTRAdW5pY29kZS5tZXRmb25lLmNvbS5raC5hbmdrb3Jzc2guZ2dmZi5uZXQ6ODAvP3BhdGg9JTJGc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1raC5hbmdrb3Jzc2guZ2dmZi5uZXQmdHlwZT13cyMxLiUyME1ldGZvbmUlMjAtJTIwU0VSVkVSJTIwS0glMjAlRjAlOUYlODclQjAlRjAlOUYlODclQUQ="
                     },
                     {
                         "name": "2. Metfone - SERVER KH 🇰🇭 ",
-                        "link": "vless://3745e087-3edb-43e9-8c05-1ab0ac91a7e4@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "dmxlc3M6Ly8zNzQ1ZTA4Ny0zZWRiLTQzZTktOGMwNS0xYWIwYWM5MWE3ZTRAYXBzcmFsbGMuZW1vbmV5LnBheW1lbnQuY29tLmtoLmFwc2FyYWxsYy5nZ2ZmLm5ldDo4MC8/cGF0aD0lMkYmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1raC5hbmdrb3Jzc2guZ2dmZi5uZXQmdHlwZT13cyMyLiUyME1ldGZvbmUlMjAtJTIwU0VSVkVSJTIwS0glMjAlRjAlOUYlODclQjAlRjAlOUYlODclQUQ="
                     }
                 ]
             },
@@ -20,13 +21,35 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#1.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "dmxlc3M6Ly84NmM1MGUzYS01Yjg3LTQ5ZGQtYmQyMC0wM2M3ZjI3MzVlNDBAYXBzcmFsbGMuZW1vbmV5LnBheW1lbnQuY29tLmtoLmFwc2FyYWxsYy5nZ2ZmLm5ldDo4MC8/cGF0aD0lMkZweWlwJTNEJnNlY3VyaXR5PW5vbmUmZW5jcnlwdGlvbj1ub25lJmhvc3Q9cm95YWwuYW5na29yc3NoLndvcmtlcnMuZGV2JmZwPXJhbmRvbSZ0eXBlPXdzJnNuaT1yb3lhbC5hbmdrb3Jzc2gud29ya2Vycy5kZXYjMS4lMjBNZXRmb25lJTIwLSUyMFNFUlZFUl9LSF9GQVNUJTIwJUUwJTlGJTg3JUIwJUUwJTlGJTg3JUFE"
+                    },
+                    {
+                        "name": "2. Metfone - SERVER KH FAST 🇰🇭",
+                        "link": "dmxlc3M6Ly84NmM1MGUzYS01Yjg3LTQ5ZGQtYmQyMC0wM2M3ZjI3MzVlNDBAYXBzcmFsbGMuZW1vbmV5LnBheW1lbnQuY29tLmtoLmFwc2FyYWxsYy5nZ2ZmLm5ldDo4MC8/cGF0aD0lMkZweWlwJTNEJnNlY3VyaXR5PW5vbmUmZW5jcnlwdGlvbj1ub25lJmhvc3Q9Y25uLmlobXI2ODk4LndvcmtlcnMuZGV2JmZwPXJhbmRvbSZ0eXBlPXdzJnNuaT1jbm4uaWhtcjY4OTgud29ya2Vycy5kZXYjMi4lMjBNZXRmb25lJTIwLSUyMFNFUlZFUl9LSF9GQVNUJTIwJUUwJTlGJTg3JUIwJUUwJTlGJTg3JUFE"
+                    },
+                    {
+                        "name": "3. Metfone - SERVER KH FAST 🇰🇭",
+                        "link": "dmxlc3M6Ly84NmM1MGUzYS01Yjg3LTQ5ZGQtYmQyMC0wM2M3ZjI3MzVlNDBAYXBzcmFsbGMuZW1vbmV5LnBheW1lbnQuY29tLmtoLmFwc2FyYWxsYy5nZ2ZmLm5ldDo4MC8/cGF0aD0lMkZweWlwJTNEJnNlY3VyaXR5PW5vbmUmZW5jcnlwdGlvbj1ub25lJmhvc3Q9YXBzYXJhLm1ldGZvbmUuZ2dmZi5uZXQmZnA9cmFuZG9tJnR5cGU9d3Mmc25pPWFwc2FyYS5tZXRmb25lLmdnZmYubmV0IzMuJTIwTWV0Zm9uJTIwLSUyMFNFUlZFUl9LSF9GQVNUJTIwJUUwJTlGJTg3JUIwJUUwJTlGJTg3JUFE"
+                    }
+                ]
+            },
+            {
+                "title": "Metfone - សម្រាប់ការលេងច្រើន Download Files...",
+                "configs": [
+                    {
+                        "name": "1. Metfone - SERVER SG 🇸🇬",
+                        "link": "dmxlc3M6Ly85YzQ5MGMwMi03ZjkyLTQ1NDMtYTdjZS05NWQyMTcwNjI4ODZAYXBzcmFsbGMuZW1vbmV5LnBheW1lbnQuY29tLmtoLmFwc2FyYWxsYy5nZ2ZmLm5ldDo4MC8/cGF0aD0lMkZzZ3Z2aXAmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1zZ2cuYW5na29yc3NoLmdnZmYubmV0JnR5cGU9d3MjMDEuJTIwTWV0Zm9uJTIwLSUyMFNFUlZFUl9TRyUyMCVFMCU5RiU4NyVCOCVFMCU5RiU4NyVBQw=="
+                    },
+                    {
+                        "name": "2. Metfone - SERVER TH 🇹🇭",
+                        "link": "dmxlc3M6Ly8zMzAwNTAxNy1kMTUwLTRhZDMtYmVlYS1kZjcwYWQ0MjBmYzdAYXBzcmFsbGMuZW1vbmV5LnBheW1lbnQuY29tLmtoLmFwc2FyYWxsYy5nZ2ZmLm5ldDo4MC8/cGF0aD0lMkZyYXkmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD13d3cub3BlbnNpZ25hbC5jb20udHJ1ZS04Lm1pc251dG51dC51ayZ0eXBlPXdzIzAyLiUyME1ldGZvbmUlMjAtJTIwU0VSVkVSJTIwVEglMjAlRTAlOUYlODclQjglRTAlOUYlODclQUQ="
                     }
                 ]
             }
         ]
     },
     "manager-page-2": {
+        "buttonTitle": "Server Pack 2",
         "title": "VLESS - Cellcard Tele   សុពលភាពស៊ីម",
         "categories": [
             {
@@ -34,6 +57,28 @@
                 "configs": [
                     {
                         "name": "1. Cellcard - SERVER KH 🇰🇭 ",
+                        "link": "dmxlc3M6Ly8xNzQ1ZTA4Ny0zZWRiLTQzZTktOGMwNS0xYWIwYWM5MWE3ZTRAY2RuLnllbGxvd21lc3Nlbmdlci5jb206ODAvP3BhdGg9JTJGc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1raC5hbmdrb3Jzc2guZ2dmZi5uZXQmdHlwZT13cyMxLiUyMENlbGxjYXJkJTIwLSUyMFNFUlZFUl9LSF8lRTAlOUYlODclQjAlRTAlOUYlODclQUQ="
+                    }
+                ]
+            }
+        ]
+    },
+    "manager-page-3": {
+        "buttonTitle": "Server Pack 3",
+        "title": "VLESS Manager - Pack 3",
+        "categories": [
+            {
+                "title": "Smart - Pack 3",
+                "configs": [
+                    {
+                        "name": "1. Smart UK",
+                        "link": "dmxlc3M6Ly9wbGFjZWhvbGRlci1mb3ItcGFjazM="
+                    }
+                ]
+            }
+        ]
+    }
+}
                         "link": "vless://1745e087-3edb-43e9-8c05-1ab0ac91a7e4@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Cellcard%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
                     }
                 ]
