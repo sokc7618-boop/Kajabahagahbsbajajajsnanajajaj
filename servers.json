@@ -13,6 +13,10 @@
                     {
                         "name": "2. Metfone - SERVER KH 🇰🇭 ",
                         "link": "vless://3745e087-3edb-43e9-8c05-1ab0ac91a7e4@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20SERVER%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "TestKh",
+                        "link": "168"
                     }
                 ]
             },
