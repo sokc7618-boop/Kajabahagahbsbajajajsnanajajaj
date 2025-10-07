@@ -93,8 +93,20 @@
                         "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D36.95.152.58%3A12137&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#14.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
                     },
                     {
-                        "name": "14. Metfone - SERVER ID 🇮🇩",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D36.95.152.58%3A12137&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#14.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
+                        "name": "15. Metfone - SERVER ID 🇮🇩",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D103.6.207.108%3A8080&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#15.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
+                    },
+                    {
+                        "name": "16. Metfone - SERVER SG 🇸🇬",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D129.150.58.86%3A57621&security=&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#16.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                    },
+                    {
+                        "name": "17. Metfone - SERVER SG 🇸🇬",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D47.74.254.191%3A8900&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#17.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                    },
+                    {
+                        "name": "18. Metfone - SERVER SG 🇸🇬",
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@apsrallc.emoney.payment.com.kh.apsarallc.ggff.net:80?path=%2Fpyip%3D144.24.78.162%3A443&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#18.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     }
                 ]
             }
