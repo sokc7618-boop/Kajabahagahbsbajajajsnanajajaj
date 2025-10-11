@@ -30,6 +30,14 @@
                     {
                         "name": "3. Metfone - SERVER KH FAST 🇰🇭",
                         "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "4. Metfone - SERVER TH FAST 🇹🇭",
+                        "link": "vless://753b83f4-d0b8-451b-814a-412f40b3ef85@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma02.sry-vpn.com&type=ws#4. Metfone - SERVER TH FAST 🇹🇭"
+                    },
+                    {
+                        "name": "5. Metfone - SERVER TH FAST 🇹🇭",
+                        "link": "vless://0401c3e4-39ff-4ed8-ab8b-3fffe472d866@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma03.sry-vpn.com&type=ws#5. Metfone - SERVER TH FAST 🇹🇭"
                     }
                 ]
             },
@@ -54,7 +62,7 @@
                     },
                     {
                         "name": "5. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://cc617f25-dccc-4320-a16a-f20a8b9e67ba@104.18.11.39:80?path=%2Fvless&security=none&encryption=none&host=th-80.twins-app.uk&type=ws#05.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://653bc5ea-bb48-4d7f-988b-5d2d72049725@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma04.sry-vpn.com&type=ws#5. Metfone - SERVER TH 🇹🇭"
                     },
                     {
                         "name": "6. Metfone - SERVER TH 🇹🇭",
@@ -66,7 +74,7 @@
                     },
                     {
                         "name": "8. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://d54885ed-f668-4b0b-b5ac-51d17e668f44@104.18.11.39:80?path=%2Fvless&security=none&encryption=none&host=th-90.twins-app.uk&type=ws#08.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://2fbdbbcc-80e1-4dcb-9387-3d777b918145@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma06.sry-vpn.com&type=ws#8. Metfone - SERVER TH 🇹🇭"
                     },
                     {
                         "name": "9. Metfone - SERVER TH 🇹🇭",
