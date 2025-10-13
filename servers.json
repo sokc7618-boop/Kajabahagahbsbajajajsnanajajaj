@@ -270,6 +270,11 @@
     "manager-page-1760318295534": {
         "title": "កូដ NetMod - សម្រាប់ Metfone",
         "buttonTitle": "SSH - សម្រាប់ Metfone អត់ប្រើសេវាកម្ម",
-        "categories": []
+        "categories": [
+            {
+                "title": "SSH FAST",
+                "configs": []
+            }
+        ]
     }
 }
