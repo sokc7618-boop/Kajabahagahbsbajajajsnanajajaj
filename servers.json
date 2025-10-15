@@ -1,6 +1,6 @@
 {
     "manager-page-1": {
-        "title": "VLESS - សម្រាប់ Metfone អត់ប្រើសេវាកម្ម",
+        "title": "VLESS - សម្រាប់ Metfone ប្រើសេវាកម្ម MLBB X TIKTOK ",
         "buttonTitle": "កូដ VLESS - សម្រាប់ Metfone",
         "categories": [
             {
@@ -8,19 +8,19 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER VPS KH 🇰🇭 ",
-                        "link": "vless://0f790cdc-bfd7-4099-b408-5313f328cbf2@104.18.11.39:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Metfone%20-%20SERVER VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://0f790cdc-bfd7-4099-b408-5313f328cbf2@104.16.125.32:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Metfone%20-%20SERVER VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "2. Metfone - SERVER VPS KH 🇰🇭 ",
-                        "link": "vless://b70571dc-1e36-425b-96e3-c67117902890@104.18.11.39:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20SERVER VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://b70571dc-1e36-425b-96e3-c67117902890@104.16.125.32:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20SERVER VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "3. Metfone - SERVER VPS SG 🇸🇬",
-                        "link": "vless://7456e74f-44fa-4297-891a-a3de66eaa1df@104.18.11.39:8880?path=%2F&security=none&encryption=none&host=contabo.ovpn.space&type=ws#3.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://7456e74f-44fa-4297-891a-a3de66eaa1df@104.16.125.32:8880?path=%2F&security=none&encryption=none&host=contabo.ovpn.space&type=ws#3.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
                         "name": "4. Metfone - SERVER VPS SG 🇸🇬",
-                        "link": "vless://71e17e01-e0df-4bc0-accb-3a3837fc0094@104.18.11.39:8880?path=%2F&security=none&encryption=none&host=contabo.ovpn.space&type=ws#4.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://71e17e01-e0df-4bc0-accb-3a3837fc0094@104.16.125.32:8880?path=%2F&security=none&encryption=none&host=contabo.ovpn.space&type=ws#4.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     }
                 ]
             },
@@ -29,23 +29,23 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#1.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#1.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "2. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#2.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#2.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "3. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "4. Metfone - SERVER TH FAST 🇹🇭",
-                        "link": "vless://753b83f4-d0b8-451b-814a-412f40b3ef85@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma02.sry-vpn.com&type=ws#4. Metfone - SERVER TH FAST 🇹🇭"
+                        "link": "vless://753b83f4-d0b8-451b-814a-412f40b3ef85@104.16.125.32:80?path=%2F&security=&encryption=none&host=loma02.sry-vpn.com&type=ws#4. Metfone - SERVER TH FAST 🇹🇭"
                     },
                     {
                         "name": "5. Metfone - SERVER TH FAST 🇹🇭",
-                        "link": "vless://0401c3e4-39ff-4ed8-ab8b-3fffe472d866@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma03.sry-vpn.com&type=ws#5. Metfone - SERVER TH FAST 🇹🇭"
+                        "link": "vless://0401c3e4-39ff-4ed8-ab8b-3fffe472d866@104.16.125.32:80?path=%2F&security=&encryption=none&host=loma03.sry-vpn.com&type=ws#5. Metfone - SERVER TH FAST 🇹🇭"
                     }
                 ]
             },
@@ -54,87 +54,87 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://12673c6c-a2d8-44cb-adf1-258b3a6482b4@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma01.sry-vpn.com&type=ws#1. Metfone - SERVER TH 🇹🇭"
+                        "link": "vless://12673c6c-a2d8-44cb-adf1-258b3a6482b4@104.16.125.32:80?path=%2F&security=&encryption=none&host=loma01.sry-vpn.com&type=ws#1. Metfone - SERVER TH 🇹🇭"
                     },
                     {
                         "name": "2. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://94d1b1a4-b17f-4631-b6d4-1c9f9fd7c250@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma05.sry-vpn.com&type=ws#2. Metfone - SERVER TH 🇹🇭"
+                        "link": "vless://94d1b1a4-b17f-4631-b6d4-1c9f9fd7c250@104.16.125.32:80?path=%2F&security=&encryption=none&host=loma05.sry-vpn.com&type=ws#2. Metfone - SERVER TH 🇹🇭"
                     },
                     {
                         "name": "3. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@104.18.11.39:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.true-16.misternut.uk&type=ws#03.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.true-16.misternut.uk&type=ws#03.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "4. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@104.18.11.39:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&type=ws#04.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&type=ws#04.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "5. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://653bc5ea-bb48-4d7f-988b-5d2d72049725@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma04.sry-vpn.com&type=ws#5. Metfone - SERVER TH 🇹🇭"
+                        "link": "vless://653bc5ea-bb48-4d7f-988b-5d2d72049725@104.16.125.32:80?path=%2F&security=&encryption=none&host=loma04.sry-vpn.com&type=ws#5. Metfone - SERVER TH 🇹🇭"
                     },
                     {
                         "name": "6. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://c6cf590a-e0f3-45b8-8e24-6bd94398140d@104.18.11.39:80?path=%2Fvless&security=none&encryption=none&host=th-69.twins-app.uk&type=ws#06.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://c6cf590a-e0f3-45b8-8e24-6bd94398140d@104.16.125.32:80?path=%2Fvless&security=none&encryption=none&host=th-69.twins-app.uk&type=ws#06.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "7. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://f0b1b41f-e79a-4564-a2ce-c32634158c40@104.18.11.39:80?path=%2Fvless&security=none&encryption=none&host=th-82.twins-app.uk&type=ws#07.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://f0b1b41f-e79a-4564-a2ce-c32634158c40@104.16.125.32:80?path=%2Fvless&security=none&encryption=none&host=th-82.twins-app.uk&type=ws#07.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "8. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://2fbdbbcc-80e1-4dcb-9387-3d777b918145@104.18.11.39:80?path=%2F&security=&encryption=none&host=loma06.sry-vpn.com&type=ws#8. Metfone - SERVER TH 🇹🇭"
+                        "link": "vless://2fbdbbcc-80e1-4dcb-9387-3d777b918145@104.16.125.32:80?path=%2F&security=&encryption=none&host=loma06.sry-vpn.com&type=ws#8. Metfone - SERVER TH 🇹🇭"
                     },
                     {
                         "name": "9. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://81b0d0f9-43a5-4845-b982-24066e115d5b@104.18.11.39:80?path=%2Fray&security=none&encryption=none&host=mcloud-nut-4.misterpnut.uk&type=ws#09.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://81b0d0f9-43a5-4845-b982-24066e115d5b@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=mcloud-nut-4.misterpnut.uk&type=ws#09.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "10. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://81b0d0f9-43a5-4845-b982-24066e115d5b@104.18.11.39:80?path=%2Fray&security=none&encryption=none&host=mcloud-nut-2.misterpnut.uk&type=ws#10.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://81b0d0f9-43a5-4845-b982-24066e115d5b@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=mcloud-nut-2.misterpnut.uk&type=ws#10.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "11. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://81b0d0f9-43a5-4845-b982-24066e115d5b@104.18.11.39:80?path=%2Fray&security=none&encryption=none&host=mcloud-nut-3.misterpnut.uk&type=ws#11.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://81b0d0f9-43a5-4845-b982-24066e115d5b@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=mcloud-nut-3.misterpnut.uk&type=ws#11.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "12. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@104.18.11.39:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.true-8.misternut.uk&type=ws#02.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "link": "vless://33005017-d150-4ad3-beea-df70ad420fc7@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.true-8.misternut.uk&type=ws#02.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
                         "name": "13. Metfone - SERVER ID 🇮🇩",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D43.218.77.16%3A1443&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#13.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D43.218.77.16%3A1443&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#13.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
                     },
                     {
                         "name": "14. Metfone - SERVER ID 🇮🇩",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D36.95.152.58%3A12137&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#14.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D36.95.152.58%3A12137&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#14.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
                     },
                     {
                         "name": "15. Metfone - SERVER ID 🇮🇩",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D103.6.207.108%3A8080&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#15.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D103.6.207.108%3A8080&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#15.%20Metfone%20-%20SERVER%20ID%20%F0%9F%87%AE%F0%9F%87%A9"
                     },
                     {
                         "name": "16. Metfone - SERVER SG 🇸🇬",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D129.150.58.86%3A57621&security=&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#16.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D129.150.58.86%3A57621&security=&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#16.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
                         "name": "17. Metfone - SERVER SG 🇸🇬",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D47.74.254.191%3A8900&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#17.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D47.74.254.191%3A8900&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#17.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
                         "name": "18. Metfone - SERVER SG 🇸🇬",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D144.24.78.162%3A443&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#18.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D144.24.78.162%3A443&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#18.%20Metfone%20-%20SERVER%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
                         "name": "19. Metfone - SERVER HK 🇭🇰",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D103.247.28.240%3A37211&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#19.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D103.247.28.240%3A37211&security=none&encryption=none&host=royal.angkorssh.workers.dev&fp=random&type=ws&sni=royal.angkorssh.workers.dev#19.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
                     },
                     {
                         "name": "20. Metfone - SERVER HK 🇭🇰",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D156.230.12.71%3A443&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#20.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D156.230.12.71%3A443&security=none&encryption=none&host=cnn.ihmr6898.workers.dev&fp=random&type=ws&sni=cnn.ihmr6898.workers.dev#20.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
                     },
                     {
                         "name": "21. Metfone - SERVER HK 🇭🇰",
-                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.11.39:80?path=%2Fpyip%3D218.188.151.102%3A26002&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#21.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
+                        "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D218.188.151.102%3A26002&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#21.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
                     }
                 ]
             }
