@@ -137,19 +137,6 @@
                         "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.125.32:80?path=%2Fpyip%3D218.188.151.102%3A26002&security=none&encryption=none&host=apsara.metfone.ggff.net&fp=random&type=ws&sni=apsara.metfone.ggff.net#21.%20Metfone%20-%20SERVER%20HK%20%F0%9F%87%AD%F0%9F%87%B0"
                     }
                 ]
-            },
-            {
-                "title": "Metfone - អត់ប្រើសេវាកម្ម",
-                "configs": [
-                    {
-                        "name": "1. Metfone - អត់សេវាកម្ម VPS KH 🇰🇭",
-                        "link": "vless://0f790cdc-bfd7-4099-b408-5313f328cbf2@38.54.5.37:80?path=%2F&security=none&encryption=none&host=khcdn.angkorssh.ggff.net&type=ws#1.%20Metfone%20-%20%E1%9E%A2%E1%9E%8F%E1%9F%8B%E1%9E%9F%E1%9F%81%E1%9E%9C%E1%9E%B6%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%20VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
-                    },
-                    {
-                        "name": "2. Metfone - អត់សេវាកម្ម VPS KH 🇰🇭",
-                        "link": "vless://b70571dc-1e36-425b-96e3-c67117902890@38.54.5.37:80?path=%2F&security=none&encryption=none&host=khcdn.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20%E1%9E%A2%E1%9E%8F%E1%9F%8B%E1%9E%9F%E1%9F%81%E1%9E%9C%E1%9E%B6%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%20VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
-                    }
-                ]
             }
         ]
     },
