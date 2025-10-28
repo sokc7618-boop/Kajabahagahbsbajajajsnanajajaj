@@ -155,6 +155,42 @@
                     {
                         "name": "26. Metfone - SERVER VN 🇻🇳",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F103.15.90.134-49678&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#26.%20Metfone%20-%20SERVER%20VN%20%F0%9F%87%BB%F0%9F%87%B3"
+                    },
+                    {
+                        "name": "27. Metfone - SERVER KR 🇰🇷",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F158.247.250.157-81&security=&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#27.%20Metfone%20-%20SERVER%20KR%20%F0%9F%87%B0%F0%9F%87%B7"
+                    },
+                    {
+                        "name": "28. Metfone - SERVER KR 🇰🇷",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F146.56.140.79-22561&security=none&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#28.%20Metfone%20-%20SERVER%20KR%20%F0%9F%87%B0%F0%9F%87%B7"
+                    },
+                    {
+                        "name": "29. Metfone - SERVER KR 🇰🇷",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F119.197.255.195-30036&security=&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#29.%20Metfone%20-%20SERVER%20KR%20%F0%9F%87%B0%F0%9F%87%B7"
+                    },
+                    {
+                        "name": "30. Metfone - SERVER JP 🇯🇵",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F217.142.230.253-587&security=&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#30.%20Metfone%20-%20SERVER%20JP%20%F0%9F%87%AF%F0%9F%87%B5"
+                    },
+                    {
+                        "name": "31. Metfone - SERVER JP 🇯🇵",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F212.52.0.61-1846&security=&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#31.%20Metfone%20-%20SERVER%20JP%20%F0%9F%87%AF%F0%9F%87%B5"
+                    },
+                    {
+                        "name": "32. Metfone - SERVER JP 🇯🇵",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F118.27.12.40-38443&security=&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#32.%20Metfone%20-%20SERVER%20JP%20%F0%9F%87%AF%F0%9F%87%B5"
+                    },
+                    {
+                        "name": "33. Metfone - SERVER IN 🇮🇳",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F143.244.130.180-443&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#33.%20Metfone%20-%20SERVER%20IN%20%F0%9F%87%AE%F0%9F%87%B3"
+                    },
+                    {
+                        "name": "34. Metfone - SERVER IN 🇮🇳",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F20.235.105.146-443&security=none&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#34.%20Metfone%20-%20SERVER%20IN%20%F0%9F%87%AE%F0%9F%87%B3"
+                    },
+                    {
+                        "name": "35. Metfone - SERVER IN 🇮🇳",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F148.113.43.228-2053&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#35.%20Metfone%20-%20SERVER%20IN%20%F0%9F%87%AE%F0%9F%87%B3"
                     }
                 ]
             }
