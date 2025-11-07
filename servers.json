@@ -7,20 +7,20 @@
                 "title": "Metfone - ប្រភេទ VPS ",
                 "configs": [
                     {
-                        "name": "1. Metfone - SERVER VPS KH 🇰🇭 ",
-                        "link": "vless://0f790cdc-bfd7-4099-b408-5313f328cbf2@104.16.125.32:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#1.%20Metfone%20-%20SERVER VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "name": "1. Metfone - SERVER VPS SG 🇸🇬 ",
+                        "link": "vless://0a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#1.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "2. Metfone - SERVER VPS KH 🇰🇭 ",
-                        "link": "vless://b70571dc-1e36-425b-96e3-c67117902890@104.16.125.32:80?path=%2F&security=none&encryption=none&host=kh.angkorssh.ggff.net&type=ws#2.%20Metfone%20-%20SERVER VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "name": "2. Metfone - SERVER VPS SG 🇸🇬 ",
+                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#2.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
                         "name": "3. Metfone - SERVER VPS SG 🇸🇬",
-                        "link": "vless://7456e74f-44fa-4297-891a-a3de66eaa1df@104.16.125.32:8880?path=%2F&security=none&encryption=none&host=contabo.ovpn.space&type=ws#3.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#3.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
                         "name": "4. Metfone - SERVER VPS SG 🇸🇬",
-                        "link": "vless://71e17e01-e0df-4bc0-accb-3a3837fc0094@104.16.125.32:8880?path=%2F&security=none&encryption=none&host=contabo.ovpn.space&type=ws#4.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                        "link": "vless://3a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#4.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
                     }
                 ]
             },
