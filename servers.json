@@ -21,6 +21,14 @@
                     {
                         "name": "4. Metfone - SERVER VPS SG 🇸🇬",
                         "link": "vless://3a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#4.%20Metfone%20-%20SERVER%20VPS%20SG%20%F0%9F%87%B8%F0%9F%87%AC"
+                    },
+                    {
+                        "name": "5. Metfone - SERVER VPS KH 🇰🇭",
+                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#5.%20Metfone%20-%20SERVER%20VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
+                    },
+                    {
+                        "name": "6. Metfone - SERVER VPS KH 🇰🇭",
+                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.16.125.32:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6.%20Metfone%20-%20SERVER%20VPS%20KH%20%F0%9F%87%B0%F0%9F%87%AD"
                     }
                 ]
             },
