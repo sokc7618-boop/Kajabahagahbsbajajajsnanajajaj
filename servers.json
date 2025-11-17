@@ -37,11 +37,11 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F192.168.0.1-80&security=none&encryption=none&host=vless.apsarabot3.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F38.54.4.31:51198&security=none&encryption=none&host=vless.apsarabot3.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "2. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F192.168.0.1-80&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#2.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F38.54.4.31:39738&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#2.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
                     },
                     {
                         "name": "3. Metfone - SERVER KH FAST 🇰🇭",
