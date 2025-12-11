@@ -85,12 +85,12 @@
                         "link": "vless://80bf0d94-3a55-46f4-af32-a92bb335281d@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&type=ws#04.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
                     },
                     {
-                        "name": "5. Metfone - SERVER TH 🇹🇭",
-                        "link": "vless://d410f808-eb1a-45e3-84f9-a86584b24494@104.16.125.32:80?path=%2Fvless&security=none&encryption=none&host=th-89.twins-app.uk&type=ws#5.%20Metfone%20-%20SERVER%20TH%20%F0%9F%87%B9%F0%9F%87%AD"
+                        "name": "5. Metfone - SERVER RU 🇷🇺",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F147.45.245.15-443&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#5.%20Metfone%20-%20SERVER RU 🇷🇺"
                     },
                     {
-                        "name": "6. Metfone - SERVER TH 🇹🇭",
-                        "link": "vmess://eyJhZGQiOiIxMDQuMTYuMTI1LjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aC04Mi50d2lucy1hcHAudWsiLCJpZCI6ImMzN2MyMTE5LTNkNTUtNGI0OS1iZTYzLWNjZTgzNDllN2RlNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiNi4gTWV0Zm9uZSAtIFNFUlZFUiBUSCDwn4e58J+HrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+                        "name": "6. Metfone - SERVER RU 🇷🇺",
+                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%141.105.70.114-443&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#6.%20Metfone%20-%20SERVER RU 🇷🇺"
                     },
                     {
                         "name": "7. Metfone - SERVER DE 🇩🇪",
