@@ -703,7 +703,7 @@
     },
     "manager-page-1759746949124": {
         "title": "New Pack Title",
-        "buttonTitle": "កូដ VLESS - សម្រាប់ Seatel KH",
+        "buttonTitle": "កូដ VLESS - សម្រាប់ Cellcard ",
         "categories": [
             {
                 "title": "Cellcard - ប្រភេទ VPS ",
@@ -909,7 +909,7 @@
                     {
                         "name": "35. Cellcard - SERVER IN 🇮🇳",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@cdn.yellowmessenger.com:80?path=%2F148.113.43.228-2053&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot.workers.dev#35.%20Cellcard%20-%20SERVER%20IN%20%F0%9F%87%AE%F0%9F%87%B3"
-}
+                    }
                 ]
             },
             {
