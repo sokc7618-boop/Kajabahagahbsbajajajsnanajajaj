@@ -803,8 +803,8 @@
                 "title": "Cellcard - ជម្រើសច្រើន",
                 "configs": [
                     {
-                        "name": "1. Cellcard - SERVER SG 🇸🇬",
-                        "link": "vless://72a8a76f-c896-451a-a0fa-6de7b81c829b@cdn.yellowmessenger.com:80?path=%2Fvipfreefast&security=none&encryption=none&host=sglinodefast.vvipv2ray.filegear-sg.me&type=ws#1.%20Cellcard%20-%20SERVER%20SG 🇸🇬"
+                        "name": "1. Cellcard - SERVER TH 🇹🇭",
+                        "link": "vless://31d47767-1e61-4d82-a516-b015fff71563@cdn.yellowmessenger.com:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws##1.%20Cellcard%20-%20SERVER%20TH 🇹🇭"
                     },
                     {
                         "name": "2. Cellcard - SERVER DE 🇩🇪",
