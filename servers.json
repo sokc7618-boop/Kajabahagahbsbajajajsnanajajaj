@@ -258,35 +258,35 @@
                 "configs": [
                     {
                         "name": "1. Metfone - SERVER VPS SG - IP 1 🇸🇬 ",
-                        "link": "vless://0a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#1. Metfone - SERVER VPS SG - IP 1 🇸🇬 "
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#1. Metfone - SERVER VPS SG - IP 1 🇸🇬 "
                     },
                     {
                         "name": "2. Metfone - SERVER VPS SG - IP 1 🇸🇬 ",
-                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#2. Metfone - SERVER VPS SG - IP 1 🇸🇬 "
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#2. Metfone - SERVER VPS SG - IP 1 🇸🇬 "
                     },
                     {
                         "name": "3. Metfone - SERVER VPS SG - IP 2 🇸🇬 ",
-                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#3. Metfone - SERVER VPS SG - IP 2 🇸🇬"
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#3. Metfone - SERVER VPS SG - IP 2 🇸🇬"
                     },
                     {
                         "name": "4. Metfone - SERVER VPS SG - IP 2 🇸🇬 ",
-                        "link": "vless://3a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#4. Metfone - SERVER VPS SG - IP 2 🇸🇬 "
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#4. Metfone - SERVER VPS SG - IP 2 🇸🇬 "
                     },
                     {
                         "name": "5. Metfone - SERVER VPS - IP 1 KH 🇰🇭",
-                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#5. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#5. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
                         "name": "6. Metfone - SERVER VPS - IP 1 KH 🇰🇭",
-                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
                         "name": "7. Metfone - SERVER VPS - IP 2 KH 🇰🇭",
-                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#7. Metfone - SERVER VPS - IP 2 KH 🇰🇭"
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#7. Metfone - SERVER VPS - IP 2 KH 🇰🇭"
                     },
                     {
                         "name": "8. Metfone - SERVER VPS - IP 2 KH 🇰🇭",
-                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#8. Metfone - SERVER VPS - IP 2 KH 🇰🇭"
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#8. Metfone - SERVER VPS - IP 2 KH 🇰🇭"
                     },
                     {
                         "name": "9. Metfone - SERVER VPS SG - IP 3🇸🇬 ",
@@ -497,8 +497,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-2"
+        ]
     },
     "manager-page-3": {
         "title": "VLESS Manager - Pack 3",
