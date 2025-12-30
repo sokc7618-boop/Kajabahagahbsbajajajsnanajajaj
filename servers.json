@@ -552,35 +552,35 @@
                 "configs": [
                     {
                         "name": "1. Cellcard - SERVER VPS SG - IP 1 🇸🇬 ",
-                        "link": "vless://0a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#1. Cellcard - SERVER VPS SG - IP 1 🇸🇬 "
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#1. Cellcard - SERVER VPS SG - IP 1 🇸🇬 "
                     },
                     {
                         "name": "2. Cellcard - SERVER VPS SG - IP 1 🇸🇬 ",
-                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#2. Cellcard - SERVER VPS SG - IP 1 🇸🇬 "
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#2. Cellcard - SERVER VPS SG - IP 1 🇸🇬 "
                     },
                     {
                         "name": "3. Cellcard - SERVER VPS SG - IP 2 🇸🇬 ",
-                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#3. Cellcard - SERVER VPS SG - IP 2 🇸🇬"
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#3. Cellcard - SERVER VPS SG - IP 2 🇸🇬"
                     },
                     {
                         "name": "4. Cellcard - SERVER VPS SG - IP 2 🇸🇬 ",
-                        "link": "vless://3a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#4. Cellcard - SERVER VPS SG - IP 2 🇸🇬 "
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#4. Cellcard - SERVER VPS SG - IP 2 🇸🇬 "
                     },
                     {
                         "name": "5. Cellcard - SERVER VPS - IP 1 KH 🇰🇭",
-                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#5. Cellcard - SERVER VPS - IP 1 KH 🇰🇭"
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#5. Cellcard - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
                         "name": "6. Cellcard - SERVER VPS - IP 1 KH 🇰🇭",
-                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Cellcard - SERVER VPS - IP 1 KH 🇰🇭"
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Cellcard - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
                         "name": "7. Cellcard - SERVER VPS - IP 2 KH 🇰🇭",
-                        "link": "vless://1a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#7. Cellcard - SERVER VPS - IP 2 KH 🇰🇭"
+                        "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#7. Cellcard - SERVER VPS - IP 2 KH 🇰🇭"
                     },
                     {
                         "name": "8. Cellcard - SERVER VPS - IP 2 KH 🇰🇭",
-                        "link": "vless://2a7df3c1-26fc-44bd-b233-bca0587f3c5b@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#8. Cellcard - SERVER VPS - IP 2 KH 🇰🇭"
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#8. Cellcard - SERVER VPS - IP 2 KH 🇰🇭"
                     },
                     {
                         "name": "9. Cellcard - SERVER VPS SG - IP 3🇸🇬",
@@ -791,8 +791,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-1759746949124"
+        ]
     },
     "manager-page-1760318295534": {
         "title": "SSH - សម្រាប់ Cellcard អត់ប្រើសេវាកម្ម",
