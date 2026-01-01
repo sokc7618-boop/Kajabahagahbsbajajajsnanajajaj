@@ -582,6 +582,10 @@
                         "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.18.36.89:80?path=%2Fray&security=none&encryption=none&host=thai5.speed.apsaradc.dpdns.org&type=ws#01.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     }
                 ]
+            },
+            {
+                "title": "Smart SP",
+                "configs": []
             }
         ]
     },
