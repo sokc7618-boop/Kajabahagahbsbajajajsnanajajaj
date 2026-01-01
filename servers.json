@@ -529,8 +529,8 @@
                         "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@kh.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#5. Smart SP - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
-                        "name": "6. Metfone - SERVER VPS - IP 1 KH 🇰🇭",
-                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
+                        "name": "6. Smart SP - SERVER VPS - IP 1 KH 🇰🇭",
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@kh.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#6. Smart SP - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
                         "name": "7. Metfone - SERVER VPS - IP 2 KH 🇰🇭",
@@ -582,10 +582,6 @@
                         "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.18.36.89:80?path=%2Fray&security=none&encryption=none&host=thai5.speed.apsaradc.dpdns.org&type=ws#01.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     }
                 ]
-            },
-            {
-                "title": "Smart SP",
-                "configs": []
             }
         ]
     },
