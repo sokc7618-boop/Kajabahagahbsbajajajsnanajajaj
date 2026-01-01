@@ -60,24 +60,24 @@
                 "title": "Metfone - High Speed 5G",
                 "configs": [
                     {
-                        "name": "1. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=vless.apsarabot3.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#1.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "name": "01. Metfone - High Speed 5G 🇹🇭",
+                        "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=thai1.speed.apsaradc.dpdns.org&type=ws#01.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     },
                     {
-                        "name": "2. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#2.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "name": "02. Metfone - High Speed 5G 🇹🇭",
+                        "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=thai2.speed.apsaradc.dpdns.org&type=ws#01\n2.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     },
                     {
-                        "name": "3. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F192.168.0.1-80&security=none&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#3.%20Metfone%20-%20SERVER%20KH%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+                        "name": "03. Metfone - High Speed 5G 🇹🇭",
+                        "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=thai3.speed.apsaradc.dpdns.org&type=ws#03.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     },
                     {
-                        "name": "4. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F192.168.1.0-443&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#4.%20Metfone%20-%20SERVER KH FAST 🇰🇭"
+                        "name": "04. Metfone - High Speed 5G 🇹🇭",
+                        "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=thai4.speed.apsaradc.dpdns.org&type=ws#04.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     },
                     {
-                        "name": "5. Metfone - SERVER KH FAST 🇰🇭",
-                        "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.16.125.32:80?path=%2F192.168.1.0-443&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot2.workers.dev#5.%20Metfone%20-%20SERVER KH FAST 🇰🇭"
+                        "name": "05. Metfone - High Speed 5G 🇹🇭",
+                        "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@104.16.125.32:80?path=%2Fray&security=none&encryption=none&host=thai5.speed.apsaradc.dpdns.org&type=ws#05.%20Metfone%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
                     }
                 ]
             },
