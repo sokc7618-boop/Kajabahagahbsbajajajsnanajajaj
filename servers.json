@@ -549,11 +549,11 @@
                         "link": "vless://b5f8a8fd-cbba-4c26-8e6c-d0e39b080c4a@speed2.5g.apsaradc.dpdns.org:80?path=%2Fvless%2F&security=none&encryption=none&host=m.line.me&type=ws#10.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%204%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "11. Metfone - SERVER VPS SG - IP 5🇸🇬 ",
-                        "link": "vless://da3cc63e-56a7-42bf-93c9-1850d8784818@104.18.36.89:80?path=%2F&security=none&encryption=none&host=speed3.5g.apsaradc.dpdns.org&type=ws#11.%20Metfone%20-%20SERVER%20VPS%20SG%20-%20IP%205%F0%9F%87%B8%F0%9F%87%AC"
+                        "name": "11. Smart SP - SERVER VPS SG - IP 5🇸🇬 ",
+                        "link": "vless://da3cc63e-56a7-42bf-93c9-1850d8784818@speed3.5g.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#11.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%205%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "12. Metfone - SERVER VPS SG - IP 6🇸🇬 ",
+                        "name": "12. Smart SP - SERVER VPS SG - IP 6🇸🇬 ",
                         "link": "vless://8d23f187-dc8c-4292-a541-7a097f6a9f5b@104.18.36.89:80?path=%2Fvless%2F&security=none&encryption=none&host=speed4.5g.apsaradc.dpdns.org&type=ws#12.%20Metfone%20-%20SERVER%20VPS%20SG%20-%20IP%206%F0%9F%87%B8%F0%9F%87%AC"
                     }
                 ]
