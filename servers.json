@@ -307,6 +307,10 @@
                     {
                         "name": "12. Metfone - SERVER VPS SG - IP 6🇸🇬 ",
                         "link": "vless://8d23f187-dc8c-4292-a541-7a097f6a9f5b@104.18.36.89:80?path=%2Fvless%2F&security=none&encryption=none&host=speed4.5g.apsaradc.dpdns.org&type=ws#12.%20Metfone%20-%20SERVER%20VPS%20SG%20-%20IP%206%F0%9F%87%B8%F0%9F%87%AC"
+                    },
+                    {
+                        "name": "12. Metfone - SERVER VPS TH 🇹🇭 ",
+                        "link": "vmess://eyJhZGQiOiIxMDQuMTguMzYuODkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWVwdnBuMS5wcGhkZXYuc2hvcCIsImlkIjoiMzk3ZDQ4YmMtNTRmYS00MDUzLWE4MDMtMDBiYWU5NThjOWQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3B2cG4iLCJwb3J0IjoiODA4MCIsInBzIjoiMTMuIE1ldGZvbmUgLSBTRVJWRVIgVlBTIFRIIPCfh7nwn4etIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
                     }
                 ]
             },
@@ -501,8 +505,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-2"
+        ]
     },
     "manager-page-3": {
         "title": "VLESS Manager - Pack 3",
