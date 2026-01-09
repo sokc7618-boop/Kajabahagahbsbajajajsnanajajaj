@@ -509,7 +509,7 @@
     },
     "manager-page-3": {
         "title": "VLESS Manager - Pack 3",
-        "buttonTitle": "កូដ VLESS - សម្រាប់ Smart ",
+        "buttonTitle": "កូដ V2 - សម្រាប់ Smart ≫ Social ≪",
         "categories": [
             {
                 "title": "Smart - ប្រភេទ VPS  ",
@@ -589,8 +589,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-3"
+        ]
     },
     "manager-page-1759746949124": {
         "title": "តម្រូវអោយមានសុពលភាពស៊ីម",
