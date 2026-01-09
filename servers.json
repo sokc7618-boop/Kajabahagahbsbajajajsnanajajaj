@@ -593,7 +593,7 @@
     },
     "manager-page-1759746949124": {
         "title": "តម្រូវអោយមានសុពលភាពស៊ីម",
-        "buttonTitle": "កូដ VLESS - សម្រាប់ Cellcard ",
+        "buttonTitle": "V2 - សម្រាប់ Cellcard ≫ DEMO ≪",
         "categories": [
             {
                 "title": "Cellcard - ប្រភេទ VPS ",
@@ -818,8 +818,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-1759746949124"
+        ]
     },
     "manager-page-1760318295534": {
         "title": "SSH - សម្រាប់ Cellcard អត់ប្រើសេវាកម្ម",
