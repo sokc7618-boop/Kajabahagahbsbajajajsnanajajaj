@@ -255,7 +255,7 @@
     },
     "manager-page-2": {
         "title": "កូដ VLESS - សម្រាប់ Metfone",
-        "buttonTitle": "VLESS - សម្រាប់ Metfone អត់ប្រើសេវាកម្ម",
+        "buttonTitle": "V2 - Metfone មិនមានសេវាកម្ម",
         "categories": [
             {
                 "title": "Metfone - ប្រភេទ VPS ",
@@ -505,8 +505,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-2"
+        ]
     },
     "manager-page-3": {
         "title": "VLESS Manager - Pack 3",
