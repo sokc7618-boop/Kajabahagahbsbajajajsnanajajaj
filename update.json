@@ -1,0 +1,25 @@
+{
+  "updates": [
+    {
+      "id": 1,
+      "type": "alert",
+      "title": "System Maintenance",
+      "message": "ប្រព័ន្ធនឹងធ្វើការអាប់ដេតនៅម៉ោង ១២ យប់នេះ ដើម្បីជួសជុលបញ្ហាដាច់មួយចំនួន។ សូមអធ្យាស្រ័យ!",
+      "date": "10-Oct-2023"
+    },
+    {
+      "id": 2,
+      "type": "info",
+      "title": "New Server Added",
+      "message": "យើងបានបន្ថែម Server VIP ថ្មីសម្រាប់ Metfone និង Smart។ សូមធ្វើការ Update នៅទំព័រដើម។",
+      "date": "09-Oct-2023"
+    },
+    {
+      "id": 3,
+      "type": "info",
+      "title": "Version 3.0 Live",
+      "message": "អាប់ដេតថ្មី! ផ្លាស់ប្ដូររូបរាងថ្មី និងបន្ថែមមុខងារបង្កើត VLESS ដោយខ្លួនឯង។",
+      "date": "08-Oct-2023"
+    }
+  ]
+}
