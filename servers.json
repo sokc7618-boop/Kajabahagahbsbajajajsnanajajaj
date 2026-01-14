@@ -282,7 +282,7 @@
                     },
                     {
                         "name": "6. Metfone - SERVER VPS - IP 1 KH 🇰🇭",
-                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:8080?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#6. Metfone - SERVER VPS - IP 1 KH 🇰🇭"
                     },
                     {
                         "name": "7. Metfone - SERVER VPS - IP 2 KH 🇰🇭",
@@ -290,7 +290,7 @@
                     },
                     {
                         "name": "8. Metfone - SERVER VPS - IP 2 KH 🇰🇭",
-                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#8. Metfone - SERVER VPS - IP 2 KH 🇰🇭"
+                        "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@104.18.36.89:8080?path=%2F&security=none&encryption=none&host=kh1.apsaradc.dpdns.org&type=ws#8. Metfone - SERVER VPS - IP 2 KH 🇰🇭"
                     },
                     {
                         "name": "9. Metfone - SERVER VPS SG - IP 3🇸🇬 ",
@@ -505,8 +505,7 @@
                     }
                 ]
             }
-        ],
-        "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-2"
+        ]
     },
     "manager-page-3": {
         "title": "VLESS Manager - Pack 3",
