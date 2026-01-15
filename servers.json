@@ -250,6 +250,91 @@
             "link": "vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.125.32:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v7.carwashipdir.shop#4.%20Metfone%20-%20YT%20NO%20Ads%20SERVER%20USA%20%F0%9F%87%BA%F0%9F%87%B8"
           }
         ]
+      },
+      {
+        "title": "SG ONLY  (Copy)",
+        "configs": [
+          {
+            "name": "1. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F47.74.254.191-8900&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#1.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "2. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F178.128.80.43-443&security=none&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#2.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "3. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F129.150.58.86-57621&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#3.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "4. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F45.32.100.46-13802&security=none&encryption=none&host=vless.apsarabot3.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#4.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "5. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F8.219.1.169-443&security=none&encryption=none&host=antiquewhite.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#5.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "6. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F51.79.158.58-8443&security=none&encryption=none&host=cornsilk.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#6.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "7. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F45.76.183.217-49292&security=none&encryption=none&host=floralwhite.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#7.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "8. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F194.36.178.36-8443&security=none&encryption=none&host=fuchsia.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#8.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "9. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F104.248.145.216-443&security=none&encryption=none&host=cranberry.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#9.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "10. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.16780?path=%2F5.34.176.119-81&security=none&encryption=none&host=gainsboro.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#10.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "11. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F51.79.158.58-2053&security=none&encryption=none&host=gulfblue.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#11.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "12. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F43.156.116.194-443&security=none&encryption=none&host=heavenlyblue.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#12.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "13. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F43.156.181.203-443&security=none&encryption=none&host=heavenlyblue.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#13.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "14. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F31.192.238.71-2053&security=none&encryption=none&host=iceberg.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#14.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "15. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F194.36.179.5-2053&security=none&encryption=none&host=vermilion.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#15.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "16. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F185.81.28.95-30503&security=none&encryption=none&host=amerie.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#16.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "17. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F164.52.2.99-443&security=none&encryption=none&host=blossomtech.dpdns.org&type=ws&sni=vless.apsarabot1.workers.dev#17.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "18. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F143.42.66.91-443&security=none&encryption=none&host=lutranautilus.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#18.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "19. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F164.52.2.100-443&security=none&encryption=none&host=pavosilene.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#19.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "20. Metfone - SERVER SG only 🇸🇬",
+            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F91.192.81.154-2053&security=none&encryption=none&host=ppwq.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#20.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
+          }
+        ]
       }
     ],
     "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-1"
