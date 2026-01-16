@@ -478,35 +478,35 @@
                 "title": "Metfone - Singapore 🇸🇬",
                 "configs": [
                     {
-                        "name": "1. Metfone - SERVER SG only 🇸🇬",
+                        "name": "១. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F47.74.254.191-8900&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#1.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "2. Metfone - SERVER SG only 🇸🇬",
+                        "name": "២. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F178.128.80.43-443&security=none&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#2.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "3. Metfone - SERVER SG only 🇸🇬",
+                        "name": "៣. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F129.150.58.86-57621&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#3.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "4. Metfone - SERVER SG only 🇸🇬",
+                        "name": "៤. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F45.32.100.46-13802&security=none&encryption=none&host=vless.apsarabot3.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#4.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "5. Metfone - SERVER SG only 🇸🇬",
+                        "name": "៥. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F8.219.1.169-443&security=none&encryption=none&host=antiquewhite.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#5.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "6. Metfone - SERVER SG only 🇸🇬",
+                        "name": "៦. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F51.79.158.58-8443&security=none&encryption=none&host=cornsilk.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#6.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "7. Metfone - SERVER SG only 🇸🇬",
+                        "name": "៧. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F45.76.183.217-49292&security=none&encryption=none&host=floralwhite.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#7.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
-                        "name": "8. Metfone - SERVER SG only 🇸🇬",
+                        "name": "៨. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី 🇸🇬",
                         "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F194.36.178.36-8443&security=none&encryption=none&host=fuchsia.qzz.io&type=ws&sni=vless.apsarabot1.workers.dev#8.%20Metfone%20-%20SERVER%20SG%20only%20%F0%9F%87%B8%F0%9F%87%AC"
                     },
                     {
