@@ -1011,31 +1011,6 @@
             "link": "vless://8d23f187-dc8c-4292-a541-7a097f6a9f5b@speed4.5g.apsaradc.dpdns.org:80?path=%2Fvless%2F&security=none&encryption=none&host=m.line.me&type=ws#12.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%206%F0%9F%87%B8%F0%9F%87%AC"
           }
         ]
-      },
-      {
-        "title": "Smart FF - High Speed 5G ",
-        "configs": [
-          {
-            "name": "01. Smart FF - High Speed 5G 🇹🇭",
-            "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@thai1.speed.apsaradc.dpdns.org:80?path=%2Fray&security=none&encryption=none&host=m.freefiremobile.com&type=ws#01.%20Smart FF%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
-          },
-          {
-            "name": "02. Smart FF - High Speed 5G 🇹🇭",
-            "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@thai2.speed.apsaradc.dpdns.org:80?path=%2Fray&security=none&encryption=none&host=m.freefiremobile.com&type=ws#02.%20Smart FF%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
-          },
-          {
-            "name": "03. Smart FF - High Speed 5G 🇹🇭",
-            "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@thai3.speed.apsaradc.dpdns.org:80?path=%2Fray&security=none&encryption=none&host=m.freefiremobile.com&type=ws#01.%20Smart FF%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
-          },
-          {
-            "name": "04. Smart FF - High Speed 5G 🇹🇭",
-            "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@thai4.speed.apsaradc.dpdns.org:80?path=%2Fray&security=none&encryption=none&host=m.freefiremobile.com&type=ws#01.%20Smart FF%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
-          },
-          {
-            "name": "05. Smart FF - High Speed 5G 🇹🇭",
-            "link": "vless://f9f1818b-bd2d-4c48-97a4-51dcc5d95b2f@thai5.speed.apsaradc.dpdns.org:80?path=%2Fray&security=none&encryption=none&host=m.freefiremobile.com&type=ws#01.%20Smart FF%20-%20High%20Speed%205G%20%F0%9F%8C%BF"
-          }
-        ]
       }
     ],
     "subUrl": "https://raw.githubusercontent.com/sokc7618-boop/Kajabahagahbsbajajajsnanajajaj/main/sub_manager-page-3"
