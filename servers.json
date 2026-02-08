@@ -980,51 +980,27 @@
         "configs": [
           {
             "name": "1. Smart SP - SERVER VPS SG - IP 1 🇸🇬 ",
-            "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@sg.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#1. Smart SP- SERVER VPS SG - IP 1 🇸🇬 "
+            "link": "vless://Konmi-joel-luchTer-rbosKe@akamai.ovpn.space:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#%E1%9F%A1.%20%E1%9E%9F%E1%9F%92%E1%9E%98%E1%9E%B6%E1%9E%8F%20%E1%9E%A2%E1%9E%B6%E1%9E%80%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8F%E1%9E%B6%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
             "name": "2. Smart SP - SERVER VPS SG - IP 1 🇸🇬 ",
-            "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@sg.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#2. Smart SP - SERVER VPS SG - IP 1 🇸🇬 "
-          },
-          {
-            "name": "3. Smart SP - SERVER VPS SG - IP 2 🇸🇬 ",
-            "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@sg1.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#3. Smart - SERVER VPS SG - IP 2 🇸🇬"
-          },
-          {
-            "name": "4. Smart SP - SERVER VPS SG - IP 2 🇸🇬 ",
-            "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@sg1.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#4. Smart SP - SERVER VPS SG - IP 2 🇸🇬 "
+            "link": "vless://Kdmv-ah-puk-joel-konMiJm@akamai.ovpn.space:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#%E1%9F%A2.%20%E1%9E%9F%E1%9F%92%E1%9E%98%E1%9E%B6%E1%9E%8F%20%E1%9E%A2%E1%9E%B6%E1%9E%80%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8F%E1%9E%B6%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
             "name": "5. Smart SP - SERVER VPS - IP 1 KH 🇰🇭",
-            "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@kh.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#5. Smart SP - SERVER VPS - IP 1 KH 🇰🇭"
+            "link": "vless://Kdmv-ah-puk-joel-konMiJm@kh.apsaradc.dpdns.org:8080?path=%2F&security=&encryption=none&host=m.line.me&type=ws#%E1%9F%A3.%20%E1%9E%9F%E1%9F%92%E1%9E%98%E1%9E%B6%E1%9E%8F%20%E1%9E%A2%E1%9E%B6%E1%9E%80%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8F%E1%9E%B6%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20%F0%9F%87%B0%F0%9F%87%AD"
           },
           {
             "name": "6. Smart SP - SERVER VPS - IP 1 KH 🇰🇭",
-            "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@kh.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#6. Smart SP - SERVER VPS - IP 1 KH 🇰🇭"
+            "link": "vless://Konmi-joel-luchTer-rbosKe@kh1.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#%E1%9F%A4.%20%E1%9E%9F%E1%9F%92%E1%9E%98%E1%9E%B6%E1%9E%8F%20%E1%9E%A2%E1%9E%B6%E1%9E%80%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8F%E1%9E%B6%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20%F0%9F%87%B0%F0%9F%87%AD"
           },
           {
             "name": "7. Smart SP - SERVER VPS - IP 2 KH 🇰🇭",
-            "link": "vless://128de29b-0bc1-4310-9866-80f5cd573203@kh1.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#7. Smart SP - SERVER VPS - IP 2 KH 🇰🇭"
+            "link": "vless://Konmi-joel-luchTer-rbosKe@kh1.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#%E1%9F%A5.%20%E1%9E%9F%E1%9F%92%E1%9E%98%E1%9E%B6%E1%9E%8F%20%E1%9E%A2%E1%9E%B6%E1%9E%80%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8F%E1%9E%B6%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20%F0%9F%87%B0%F0%9F%87%AD"
           },
           {
             "name": "8. Smart SP - SERVER VPS - IP 2 KH 🇰🇭",
-            "link": "vless://228de29b-0bc1-4310-9866-80f5cd573203@kh1.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#8. Smart SP - SERVER VPS - IP 2 KH 🇰🇭"
-          },
-          {
-            "name": "9. Smart SP - SERVER VPS SG - IP 3🇸🇬 ",
-            "link": "vless://98caf88e-2369-426d-b4e5-4b654fde1feb@speed1.5g.apsaradc.dpdns.org:80?path=%2Fvless%2F&security=none&encryption=none&host=m.line.me&type=ws#9.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%203%F0%9F%87%B8%F0%9F%87%AC"
-          },
-          {
-            "name": "10. Smart SP - SERVER VPS SG - IP 4🇸🇬 ",
-            "link": "vless://b5f8a8fd-cbba-4c26-8e6c-d0e39b080c4a@speed2.5g.apsaradc.dpdns.org:80?path=%2Fvless%2F&security=none&encryption=none&host=m.line.me&type=ws#10.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%204%F0%9F%87%B8%F0%9F%87%AC"
-          },
-          {
-            "name": "11. Smart SP - SERVER VPS SG - IP 5🇸🇬 ",
-            "link": "vless://da3cc63e-56a7-42bf-93c9-1850d8784818@speed3.5g.apsaradc.dpdns.org:80?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#11.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%205%F0%9F%87%B8%F0%9F%87%AC"
-          },
-          {
-            "name": "12. Smart SP - SERVER VPS SG - IP 6🇸🇬 ",
-            "link": "vless://8d23f187-dc8c-4292-a541-7a097f6a9f5b@speed4.5g.apsaradc.dpdns.org:80?path=%2Fvless%2F&security=none&encryption=none&host=m.line.me&type=ws#12.%20Smart SP%20-%20SERVER%20VPS%20SG%20-%20IP%206%F0%9F%87%B8%F0%9F%87%AC"
+            "link": "vless://Kdmv-ah-puk-joel-konMiJm@kh.apsaradc.dpdns.org:8080?path=%2F&security=none&encryption=none&host=m.line.me&type=ws#%E1%9F%A6.%20%E1%9E%9F%E1%9F%92%E1%9E%98%E1%9E%B6%E1%9E%8F%20%E1%9E%A2%E1%9E%B6%E1%9E%80%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8F%E1%9E%B6%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20%F0%9F%87%B0%F0%9F%87%AD"
           }
         ]
       }
