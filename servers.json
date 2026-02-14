@@ -1242,31 +1242,43 @@
     "buttonTitle": "កូដ NetMod - សម្រាប់ Metfone",
     "categories": [
       {
-        "title": "SSH FAST",
+        "title": "New Category",
         "configs": [
           {
-            "name": "1. Metfone SSH - TH 🇹🇭",
-            "link": "nm-ssh://xNnRdH/+dDMxM7GGdkrOyGKnhXhm73jhpxOSLfZNg0uccjUqOug7aXO8biaz/jR7X7WM4TzY65oYMCt9Lem+TDtME6YDYskRWAdktCWvzWARRtRUxazbQ+Rd0/4yjMVmY4j7t5Q9DCGyonT2qvoZyYUMxAbttqPwqBuUpXXs3WkTT5EX6kMUjndSH3kGc7bpH4Mh+9lbFyt1cFOh3s3GwLswcsGB9cU8WlbBSIgoEkYJfoBvbs+41jUKLuplGeP1Tf8dGYKxfFAN4SSluWUVGUyftTn7CtXVQC2xOw470T3MWE0daeREiynr7/P0T49pu1K0gs0pB1QjKFz10yKPKTJ5YoOTfiY7MG5rnDRAWwR5xERTvqBKWIHxhDNsNyNP00DJLKwOtJvATzGojzo113Hruhq5gZFFu1QcLsKHZe0vLCokCBr2YdiL4fhOhGsGw39zR5AUEn45rfF+ysY3tgf0i3A+BOEqm/2PBKOStx0nbzytKLYQPbEaObKONzNhdxxX+a38W/XX4qp2r+33/0e78R4G3p+DnmbyqYbI7BM4DzAibL3AjJhAfdBW8A/LTbJ+9iLFzAOchp76AjyU+ciF+VKMYt6nejF1DVLKIZX3iXmTQzHG91koohhIauYwp+pHy/NnrzmyPZO2VjCPuSRzY41aNZkzp1iOTh+IJNI="
+            "name": "១. មិត្តហ្វ្រូន - ប្រទេសសិង្ហបុរី VPS 🇸🇬",
+            "link": "vless://88888888-8888-4888-8888-888888888888@104.18.36.89:80?path=%2F&security=&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#%E1%9F%A1.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20VPS%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
-            "name": "2. Metfone SSH - TH 🇹🇭",
-            "link": "nm-ssh://Ck9oOsCjx+fTO4uRq/psCsnC1ww5FCLOd1SF/LYZiQnXs481MghlZTj9JTXfPqvco4fhhq14LbRhqdWgFbR5hq5AujEn2/Mzm/QL/iTOXxjphm/2z/WA+cD5o8qfaPwNDotb0jSk8DtC34MQtMYVK6NZTNF/4v8Z3AoClrUF8SQ5d+ut5lKthyk9kb1HxScP4SIH1MPAmnOVTXxYuVS622uSA+X8FOzWmSGi+zGq+r3xTJAcJ6I/bQ/fUF3J+Xd8l/4LAu/JXcTszTC3LwRlbtRc1uOaf8857cYo1UzeLx+coxU+YAiT3ZwcD3N2obzdjWDxvJBXZm/ycVqEBt0ihQu/HhB6uMFvUevAtIuqIrTqs4pRl6z0SZoWFJQgMCoGy8+xhzMKGIswo8wDiLIE98FExsmxbGXn9Nouh4uY0WorokcENXSI1d74EbF5UUfEeEG9TOk3JaQc6Ti4C3uHzgcgzQ/DZG3pk6XHeasRNNjn24vdYcOvDF7Vvcm2vdpRwuHjRAyOiGikANaUo0HpecA0atxtLH5KV6jDsiu9yCtBdSMQHJYqVDMTy/P16/jfBP0NMrHcmUppu6QraVVKsj6LaFXRJYSWoBOtKU8JGUYt5Vi5a5ja0PyNSJymjlz4QU4eiW5miMJ9cqfLNFt8xt3OoeJRy7NgaUpMJJd5/sw="
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-888888888889@104.18.36.89:80?path=%2F&security=&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#%E1%9F%A2.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20VPS%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
-            "name": "3. Metfone SSH - TH 🇹🇭",
-            "link": "nm-ssh://Ck9oOsCjx+fTO4uRq/psCuGfiucHDTFJwX9JyieX6vn+gZ+3WvrBBxp8XBdU6OyZj1ar+/oiHy95423Eaiz/q735Ca7O8VNUHYxeIh91jDStO+9/of4WBBEG16t3ZV0Xv2hl8KhriIQ97DtfE23xc9nW6rgtFx32x3WGRuqBs5HWsgnM0lnK+HkwUhNuOh4JGIDIZb8oMEx8I7eU3aorCfV5Nh5WrzZ2ZrgJMVvgeJnGM3H7ygkocS3c3rwZxpMcwQN+2JY92zg24M0IwBj3iSBm2sPX8esYvIz6pzShEeG0yKrFxtnuACZS3v+b2b/iAiMAOtZouppbrk4CT+9wYRLTZb/3a9mVwu6TJO1tS6ex3cnJYdCgP7dd1UlkBVbUJXxi0aIz099RcDy0OMXugDMqUJHOkDOUV+j1AKGPN2vUYhdZJ2jhk0Z1zf9tgpt2fXphbw4uKCOJutOBAxoeqs2dO+rHppe4VM1s73Es46K2wOLuEQiea4AGQNbdATrxCaAlAM2vG6yr5ffI4D+V40QDJpH3RCOjG4P12EpSU1hjT0YQijIo2Ilhbb0ZeWVLTlC4pnhVy88g+81COdNTARafWcEe9hmqjfeUKf49s+1H7YQ8VQguIIU1NflsodOvnzRLVy4tbY6+0gfdWbBLWdq2i/ZV1DYHnZnuXsF4qXk="
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-88888888888a@104.18.36.89:80?path=%2F&security=&encryption=none&host=sg.apsaradc.dpdns.org&type=ws#%E1%9F%A3.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20VPS%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
-            "name": "4. Metfone SSH - TH 🇹🇭",
-            "link": "nm-ssh://Ck9oOsCjx+fTO4uRq/psCml9Bb+b6zlCO5RAm/Q++4D+gZ+3WvrBBxp8XBdU6OyZj1ar+/oiHy95423Eaiz/q735Ca7O8VNUHYxeIh91jDStO+9/of4WBBEG16t3ZV0Xv2hl8KhriIQ97DtfE23xc9nW6rgtFx32x3WGRuqBs5HWsgnM0lnK+HkwUhNuOh4JGIDIZb8oMEx8I7eU3aorCfV5Nh5WrzZ2ZrgJMVvgeJnGM3H7ygkocS3c3rwZxpMcwQN+2JY92zg24M0IwBj3iSBm2sPX8esYvIz6pzShEeG0yKrFxtnuACZS3v+b2b/iAiMAOtZouppbrk4CT+9wYRLTZb/3a9mVwu6TJO1tS6ex3cnJYdCgP7dd1UlkBVbUJXxi0aIz099RcDy0OMXugDMqUJHOkDOUV+j1AKGPN2vUYhdZJ2jhk0Z1zf9tgpt2fXphbw4uKCOJutOBAxoeqs2dO+rHppe4VM1s73Es46K2wOLuEQiea4AGQNbdATrxCaAlAM2vG6yr5ffI4D+V40QDJpH3RCOjG4P12EpSU1hjT0YQijIo2Ilhbb0ZeWVLTlC4pnhVy88g+81COdNTATtWup4fXnaJvJ2OWeLBBBhH7YQ8VQguIIU1NflsodOvnzRLVy4tbY6+0gfdWbBLWdq2i/ZV1DYHnZnuXsF4qXk="
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-888888888889@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#%E1%9F%A4.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20VPS%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
-            "name": "5. Metfone SSH - TH 🇹🇭",
-            "link": "nm-ssh://Ck9oOsCjx+fTO4uRq/psCo0mkxrpZiiOgKPZjF0TlT3+gZ+3WvrBBxp8XBdU6OyZj1ar+/oiHy95423Eaiz/q735Ca7O8VNUHYxeIh91jDStO+9/of4WBBEG16t3ZV0Xv2hl8KhriIQ97DtfE23xc9nW6rgtFx32x3WGRuqBs5HWsgnM0lnK+HkwUhNuOh4JGIDIZb8oMEx8I7eU3aorCfV5Nh5WrzZ2ZrgJMVvgeJnGM3H7ygkocS3c3rwZxpMcwQN+2JY92zg24M0IwBj3iSBm2sPX8esYvIz6pzShEeG0yKrFxtnuACZS3v+b2b/iAiMAOtZouppbrk4CT+9wYRLTZb/3a9mVwu6TJO1tS6ex3cnJYdCgP7dd1UlkBVbUJXxi0aIz099RcDy0OMXugDMqUJHOkDOUV+j1AKGPN2vUYhdZJ2jhk0Z1zf9tgpt2fXphbw4uKCOJutOBAxoeqs2dO+rHppe4VM1s73Es46K2wOLuEQiea4AGQNbdATrxCaAlAM2vG6yr5ffI4D+V40QDJpH3RCOjG4P12EpSU1hjT0YQijIo2Ilhbb0ZeWVLTlC4pnhVy88g+81COdNTAVd0EcnCOIFg3YFo4H97xVZH7YQ8VQguIIU1NflsodOvnzRLVy4tbY6+0gfdWbBLWdq2i/ZV1DYHnZnuXsF4qXk="
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-888888888888@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#%E1%9F%A5.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20VPS%20%F0%9F%87%B8%F0%9F%87%AC"
           },
           {
-            "name": "6. Metfone SSH - TH 🇹🇭",
-            "link": "nm-ssh://Ck9oOsCjx+fTO4uRq/psCjmoebpWSajBcwfgE+5Vyzr+gZ+3WvrBBxp8XBdU6OyZj1ar+/oiHy95423Eaiz/q735Ca7O8VNUHYxeIh91jDStO+9/of4WBBEG16t3ZV0Xv2hl8KhriIQ97DtfE23xc9nW6rgtFx32x3WGRuqBs5HWsgnM0lnK+HkwUhNuOh4JGIDIZb8oMEx8I7eU3aorCfV5Nh5WrzZ2ZrgJMVvgeJnGM3H7ygkocS3c3rwZxpMcwQN+2JY92zg24M0IwBj3iSBm2sPX8esYvIz6pzShEeG0yKrFxtnuACZS3v+b2b/iAiMAOtZouppbrk4CT+9wYRLTZb/3a9mVwu6TJO1tS6ex3cnJYdCgP7dd1UlkBVbUJXxi0aIz099RcDy0OMXugDMqUJHOkDOUV+j1AKGPN2vUYhdZJ2jhk0Z1zf9tgpt2fXphbw4uKCOJutOBAxoeqs2dO+rHppe4VM1s73Es46K2wOLuEQiea4AGQNbdATrxCaAlAM2vG6yr5ffI4D+V40QDJpH3RCOjG4P12EpSU1hjT0YQijIo2Ilhbb0ZeWVLTlC4pnhVy88g+81COdNTAaX036AydLjt6pyY0aZ+AYlH7YQ8VQguIIU1NflsodOvnzRLVy4tbY6+0gfdWbBLWdq2i/ZV1DYHnZnuXsF4qXk="
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-88888888888a@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sg1.apsaradc.dpdns.org&type=ws#%E1%9F%A6.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%9F%E1%9E%B7%E1%9E%84%E1%9F%92%E1%9E%A0%E1%9E%94%E1%9E%BB%E1%9E%9A%E1%9E%B8%20VPS%20%F0%9F%87%B8%F0%9F%87%AC"
+          },
+          {
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-888888888888@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#%E1%9F%A7.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20VPS%20%F0%9F%87%B0%F0%9F%87%AD"
+          },
+          {
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-888888888889@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#%E1%9F%A8.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20VPS%20%F0%9F%87%B0%F0%9F%87%AD"
+          },
+          {
+            "name": "New Server",
+            "link": "vless://88888888-8888-4888-8888-88888888888a@104.18.36.89:80?path=%2F&security=none&encryption=none&host=kh.apsaradc.dpdns.org&type=ws#%E1%9F%A9.%20%E1%9E%98%E1%9E%B7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%92%E1%9E%9A%E1%9E%BC%E1%9E%93%20-%20%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%20VPS%20%F0%9F%87%B0%F0%9F%87%AD"
           }
         ]
       }
