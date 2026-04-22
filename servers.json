@@ -372,27 +372,6 @@
     "buttonTitle": "V2 - Metfone ≫ SIM FREE ≪",
     "categories": [
       {
-        "title": "YouTube - អត់ពាណិជ្ជកម្ម (FREE)",
-        "configs": [
-          {
-            "name": "1. Metfone - YT NO Ads SERVER USA 🇺🇸",
-            "link": "vless://e4824193-4f54-453b-d037-88368e85ef0e@104.18.36.89:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#1.%20Metfone%20-%20YT%20NO%20Ads%20SERVER%20USA%20%F0%9F%87%BA%F0%9F%87%B8"
-          },
-          {
-            "name": "2. Metfone - YT NO Ads SERVER USA 🇺🇸",
-            "link": "vless://e4824193-4f54-453b-d037-88368e85ef0e@104.18.36.89:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v7.carwashipdir.shop#2.%20Metfone%20-%20YT%20NO%20Ads%20SERVER%20USA%20%F0%9F%87%BA%F0%9F%87%B8"
-          },
-          {
-            "name": "3. Metfone - YT NO Ads SERVER USA 🇺🇸",
-            "link": "vless://e4824193-4f54-453b-d037-88368e85ef0e@104.18.36.89:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v6.carwashipdir.shop#3.%20Metfone%20-%20YT%20NO%20Ads%20SERVER%20USA%20%F0%9F%87%BA%F0%9F%87%B8"
-          },
-          {
-            "name": "4. Metfone - YT NO Ads SERVER USA 🇺🇸",
-            "link": "vless://e4824193-4f54-453b-d037-88368e85ef0e@104.18.36.89:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v8.carwashipdir.shop#4.%20Metfone%20-%20YT%20NO%20Ads%20SERVER%20USA%20%F0%9F%87%BA%F0%9F%87%B8"
-          }
-        ]
-      },
-      {
         "title": "Metfone - Singapore 🇸🇬 ",
         "configs": [
           {
@@ -559,91 +538,6 @@
           {
             "name": "២០. មិត្តហ្វ្រូន - ប្រទេសឥណ្ឌូណេស៊ី ID 🇮🇩",
             "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F36.95.152.58-12137&security=none&encryption=none&host=v3.lifetime21.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#២០. មិត្តហ្វ្រូន - ប្រទេសឥណ្ឌូណេស៊ី ID 🇮🇩"
-          }
-        ]
-      },
-      {
-        "title": "Metfone - Cambodia Phnom Penh 🇰🇭",
-        "configs": [
-          {
-            "name": "១. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=vless.apsarabot.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "២. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=vless.apsarabot1.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#២. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៣. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=vless.apsarabot2.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៣. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៤. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=vless.apsarabot3.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៤. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៥. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime10.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៥. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៦. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime11.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៦. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៧. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime12.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៧. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៨. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime13.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៨. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "៩. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime14.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#៩. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១០. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime15.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១០. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១១. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime16.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១១. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១២. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime17.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១២. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៣. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime21.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៣. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៤. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime18.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៤. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៥. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime19.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៥. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៦. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime20.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៦. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៧. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=v3.lifetime60.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៧. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៨. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=v3.lifetime50.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៨. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "១៩. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-39738&security=none&encryption=none&host=raspy-frog-8969.hyzzgnbh.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#១៩. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
-          },
-          {
-            "name": "២០. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭",
-            "link": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@172.64.151.167:80?path=%2F38.54.4.31-51198&security=none&encryption=none&host=still-cell-dcbc.pvxlcvn.workers.dev&type=ws&sni=vless.apsarabot1.workers.dev#២០. មិត្តហ្វ្រូន - ប្រទេសកម្ពុជា KH 🇰🇭"
           }
         ]
       },
