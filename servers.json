@@ -992,7 +992,7 @@
           },
           {
             "name": "New Server",
-            "link": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.16.125.32:80?path=%2F&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#SG%20%F0%9F%87%B8%F0%9F%87%AC%20LOW%20PING%20MS%20MLBB%20METFONE"
+            "link": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.151.167:80?path=%2F&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#SG%20%F0%9F%87%B8%F0%9F%87%AC%20LOW%20PING%20MS%20MLBB%20METFONE"
           }
         ]
       }
